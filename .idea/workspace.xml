@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9345178-cc62-4e5e-b855-85e852e6732d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jXwMr86HirTkA5sDCXrmfzFgUt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9345178-cc62-4e5e-b855-85e852e6732d" name="Default Changelist" comment="" />
+      <created>1603963698931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603963698931</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="471" y="114" key="#Project_Structure" timestamp="1603964093638">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="471" y="114" key="#Project_Structure/62.0.1858.1080@62.0.1858.1080" timestamp="1603964093638" />
+    <state x="306" y="285" key="FileChooserDialogImpl" timestamp="1603964454605">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="306" y="285" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1603964454605" />
+    <state x="820" y="438" key="Github.ShareDialog" timestamp="1603964546863">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="820" y="438" key="Github.ShareDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1603964546863" />
+    <state x="674" y="245" key="Github.UntrackedFilesDialog" timestamp="1603964661082">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="674" y="245" key="Github.UntrackedFilesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1603964661082" />
+  </component>
+</project>
